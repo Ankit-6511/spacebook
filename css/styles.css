@@ -30,7 +30,7 @@ body{
   }
 
   .heading{
-  color: #8ec6c5;
+  color: #c295d8;
   font-family: 'Dancing Script', cursive;
   font-size: 80px;
   margin-bottom: 3%;
@@ -169,6 +169,19 @@ h2{
     width: 100%;
     padding: 0 0;
     }
+  
+  .logo1{
+  height: 150px;
+  width: 150px;
+  padding-top: 20px;
+  }
+  
+  .working{
+  height: 200px;
+  width: 240px;
+  margin-bottom: 30px;
+}
+  
   h3{
     font-size: 40px;
   }
