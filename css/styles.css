@@ -163,10 +163,7 @@ h2{
 /* media query */
 
 @media (max-width: 1020px) {
- .container-fluid{
-  margin: 0 auto 5% auto;
-  width: inherit;
-}
+
   .background{
     height: 400px;
     width: 100%;
@@ -191,7 +188,7 @@ h2{
  }
   .footer-icon, .copyright{
   font-size: 25px;
-  padding: 0 10px;
+  padding: 10px 10px;
     margin: 0 auto;
   }
 }
