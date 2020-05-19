@@ -217,5 +217,6 @@ h2{
   
   .btn, .button-icon{
     font-size: 45px;
+    border-radius: 8px;
   }
 }
