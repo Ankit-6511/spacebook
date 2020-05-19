@@ -30,7 +30,7 @@ body{
   }
 
   .heading{
-  color: #c295d8;
+  color: #a6b1e1;
   font-family: 'Dancing Script', cursive;
   font-size: 80px;
   margin-bottom: 3%;
@@ -163,7 +163,11 @@ h2{
 /* media query */
 
 @media (max-width: 1020px) {
-
+  
+  .container-fluid{
+ padding: 0 0;
+}
+  
   .background{
     height: 400px;
     width: 100%;
@@ -171,14 +175,14 @@ h2{
     }
   
   .logo1{
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 180px;
   padding-top: 20px;
   }
   
   .working{
-  height: 200px;
-  width: 240px;
+  height: 220px;
+  width: 260px;
   margin-bottom: 30px;
 }
   
@@ -190,14 +194,14 @@ h2{
   }
    p{
     font-size: 70px;
-     margin-top: 7%;
+     margin-top: 10%;
   }
   .navbar-brand{
-    font-size: 30px;
+    font-size: 40px;
  }
   
   .navbar-item{
-    font-size: 20px;
+    font-size: 25px;
  }
   .footer-icon, .copyright{
   font-size: 25px;
