@@ -6,9 +6,9 @@ body{
 
 /* navbar */
 
-.navbar-item{
+.navbar-item, .navbar{
   padding: 0 18px;
-  color: #000;
+  font-weight: bold;
 }
 
 .navbar-brand{
@@ -183,6 +183,14 @@ border-bottom: none;
     padding: 0 0;
     }
   h3{
-    width:40%
+    font-size: 30px;
   }
+   h2{
+    font-size: 40px;
+  }
+   p{
+    font-size: 60px;
+  }
+  .navbar{
+    font-size: 40px;
  }
