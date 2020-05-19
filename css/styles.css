@@ -177,7 +177,7 @@ h2{
   }
    p{
     font-size: 70px;
-     margin-top: 5%;
+     margin-top: 7%;
   }
   .navbar-brand{
     font-size: 30px;
@@ -190,5 +190,12 @@ h2{
   font-size: 25px;
   padding: 10px 10px;
     margin: 0 auto;
+  }
+  .btn{
+    margin: 2%;
+  }
+  
+  .button{
+    font-size: 25px;
   }
 }
