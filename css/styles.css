@@ -95,20 +95,14 @@ h2{
   height: 600px;
   margin-top: 60px;
   width: 70%;
-    margin: auto;
+  margin: auto;
 }
-
-.footer{
-  height: 100px;
-  background-color: #cae8d5;
-}
-
 
 .divide{
   border: dotted #f1d1d1 6px;
   border-width: thick;
   width: 5%;
-border-bottom: none;
+  border-bottom: none;
 }
 
 
@@ -191,6 +185,11 @@ border-bottom: none;
    p{
     font-size: 60px;
   }
-  .navbar{
-    font-size: 40px;
+  .navbar-brand{
+    font-size: 30px;
  }
+  
+  .navbar-item{
+    font-size: 20px;
+ }
+}
