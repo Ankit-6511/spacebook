@@ -91,12 +91,6 @@ h2{
     padding: 0 0;
 }
 
-.colored-section{
-  background-color: #ffe3ed;
-  margin: 10% auto;
-  padding: 50px 0;
-}
-
 .bottom{
   height: 600px;
   margin-top: 60px;
@@ -184,21 +178,11 @@ border-bottom: none;
 @media (max-width: 1020px) {
 
   .background{
-    position: relative;
-    margin: 0 auto;
     height: 400px;
-    width: inherit;
+    width: 100%;
     padding: 0 0;
     }
-
- 
-  .developericon{
-    height: 180px;
-    width: 180px;
+  h3{
+    width:40%
   }
-
-  .designicon{
-    height: 180px;
-    width: 180px;
-  }
-}
+ }
