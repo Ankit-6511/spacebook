@@ -215,7 +215,7 @@ h2{
     margin: 2%;
    }
   
-  .button{
-    font-size: 25px;
+  .button, .button-icon{
+    font-size: 30px;
   }
 }
