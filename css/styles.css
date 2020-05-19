@@ -102,7 +102,6 @@ h2{
 .logo1{
   height: 130px;
   width: 130px;
-  padding-top: 20px;
   }
 
 
@@ -169,16 +168,13 @@ h2{
 }
   
   .background{
-    height: 400px;
-    width: 100%;
     padding: 0 0;
     }
   
   .logo1{
   height: 180px;
   width: 180px;
-  padding-top: 20px;
-  }
+   }
   
   .working{
   height: 220px;
@@ -200,16 +196,22 @@ h2{
     font-size: 40px;
  }
   
+  .hello{
+  height: 180px;
+  width: 280px;
+}
+  
   .navbar-item{
     font-size: 25px;
  }
   .footer-icon, .copyright{
-  font-size: 25px;
+  font-size: 30px;
   padding: 10px 10px;
     margin: 0 auto;
   }
   .btn{
     margin: 2%;
+    padding: 10px;
   }
   
   .button{
