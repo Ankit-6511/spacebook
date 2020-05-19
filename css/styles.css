@@ -91,12 +91,6 @@ h2{
     padding: 0 0;
 }
 
-.bottom{
-  height: 600px;
-  margin-top: 60px;
-  width: 70%;
-  margin: auto;
-}
 
 .divide{
   border: dotted #f1d1d1 6px;
@@ -192,4 +186,8 @@ h2{
   .navbar-item{
     font-size: 20px;
  }
+  .footer-icon, .copyright{
+  font-size: 15px;
+  padding: 0 10px;
+  }
 }
