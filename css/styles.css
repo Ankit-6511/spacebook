@@ -6,8 +6,9 @@ body{
 
 /* navbar */
 
-.navbar-item, .navbar{
+.navbar-item{
   padding: 0 18px;
+  color: #000;
 }
 
 .navbar-brand{
@@ -155,10 +156,6 @@ border-bottom: none;
   width: 220px;
 }
 
-br{
-  margin: 20px;
-}
-
 .btn{
   margin: 5%;
 }
@@ -190,37 +187,18 @@ br{
     position: relative;
     margin: 0 auto;
     height: 400px;
-    width: 100%;
+    width: inherit;
     padding: 0 0;
     }
 
-  .heading{
-  font-size: 50px;
-  margin-bottom: 3%;
-  }
-
-  .sub-heading{
-    font-size: 15px;
-  }
-
-  p{
-    font-size: 35px;
-  }
-  h2{
-    font-size: 25px;
-  }
-  h3{
-    font-size: 15px;
-    padding: 0 0;
-  }
-
+ 
   .developericon{
-    height: 120px;
-    width: 120px;
+    height: 180px;
+    width: 180px;
   }
 
   .designicon{
-    height: 120px;
-    width: 120px;
+    height: 180px;
+    width: 180px;
   }
 }
